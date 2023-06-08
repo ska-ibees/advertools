@@ -110,3 +110,7 @@ ENV/
 
 # MacOS
 .DS_Store
+
+# test outputs
+code_recipes/output
+code_recipes/plw_screenshots
